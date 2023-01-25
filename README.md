@@ -2,7 +2,7 @@
 
 ## Challenge Overview
 
-This project was all about refactoring the starter code for this website in order to follow accessibility standards and increase search engine optimization.  We were given a User Story and specific Acceptance Criteria as a guide:
+This project was all about refactoring the starter code for this website in order to follow accessibility standards and increase search engine optimization.  We were given a User Story and specific Acceptance Criteria a a guide:
 
 ## User Story
 
@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 I adjusted indentations, renamed tags for semantic purposes, updated title, added meta elements for SEO, and corrected an inactive internal link.  
 
 ### CSS
-Here I adjusted a background color to improve contrast ratio and consolidated selectors in order to provide a more easily navigable codebase.
+Here I adjusted background color to improve contrast ratio.  As well, selectors were consolidated and moved to mirror HTML semantic flow in order to provide a more easily navigable codebase.
 
 ### Github
 Any changes made were regularly committed to the main branch of the associated GitHub repository.
