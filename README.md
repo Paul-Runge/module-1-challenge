@@ -38,3 +38,13 @@ Here I adjusted background color to improve contrast ratio.  As well, selectors 
 
 ### Github
 Any changes made were regularly committed to the main branch of the associated GitHub repository.
+
+##Sample Image
+
+![Screenshot (2)](https://user-images.githubusercontent.com/122774269/215021791-86a807e8-63f8-4eb7-ab2d-6daea635fcc4.png)
+
+![Screenshot (3)](https://user-images.githubusercontent.com/122774269/215021881-f5cf87ac-8e1a-4385-a32f-2e9557e0b787.png)
+
+##Deployed Link
+https://paul-runge.github.io/module-1-challenge/
+
