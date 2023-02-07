@@ -25,7 +25,7 @@ body {
 }
 
 /*Navigation bar*/
-.header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -65,7 +65,7 @@ a {
     margin-left: 20px;
 }
 
-.content div {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,7 +110,7 @@ p {
     background-color: #bd2592;
 }
 
-.benefits div {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
